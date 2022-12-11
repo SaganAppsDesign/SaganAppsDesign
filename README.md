@@ -7,6 +7,6 @@ class AboutMe
     val LinkedIn = "https://www.linkedin.com/in/david-arenas-aguirre"
     var yearsOfExperience = 1.5
     val role = "Android Developer"
-    van city = "Cádiz"
+    val city = "Cádiz"
     }
     
