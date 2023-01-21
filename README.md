@@ -1,14 +1,4 @@
-
-class AboutMe 
-   
-    {
-    val firstName = "David" 
-    val lastName = "Arenas" 
-    val city = "Cádiz"
-    val linkedIn = "https://www.linkedin.com/in/david-arenas-aguirre"
-    var yearsOfExperience = 1
-    var role = "Android Developer"
-    }
+![image](https://user-images.githubusercontent.com/37807677/213883967-b599ee58-324a-4910-9eae-386441703a74.png)
     
 ## Tecnologías:
 
