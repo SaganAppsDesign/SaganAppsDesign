@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/37807677/213883967-b599ee58-324a-4910-9eae-386441703a74.png)
+![image](https://user-images.githubusercontent.com/37807677/214535392-7dc5bfc8-2455-45fd-a512-9a8b00306c21.png)
     
 ## Tecnologías:
 
